@@ -7,7 +7,7 @@ I love programming and working with different tools.
 
 ### Talking about Personal Stuff:
 
-👨🏽‍💻 I’m currently doing a Full Stack Web Development bootcamp (Mern Stack) at Digital Career Institute.
+>👨🏽‍💻 I’m currently doing a Full Stack Web Development bootcamp (Mern Stack) at Digital Career Institute.
 
 > :sunglasses: seedling I’m currently learning Next.JS, MongoDB, Node.JS and Redux.
 
@@ -20,7 +20,8 @@ I love programming and working with different tools.
 
 
 ### Contact me:
-> Personal website: protfolio-82c79.web.app
-> Email: aabo.bilal.922@gmail.com
+>* Personal website: http://protfolio-82c79.web.app
+
+>* Email: aabo.bilal.922@gmail.com
 
 
